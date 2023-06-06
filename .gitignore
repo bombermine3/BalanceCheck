@@ -1,0 +1,7 @@
+.venv
+*.pyc
+*.history
+.DS_Store
+*.numbers
+*.xlsx
+wallets.csv
