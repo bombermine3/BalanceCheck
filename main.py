@@ -97,9 +97,6 @@ def write_xlsx(balances):
     warning_format = workbook.add_format({
         'bg_color': 'red'
     })
-    warning_format = workbook.add_format({
-        'bg_color': 'red'
-    })
     wealth_format = workbook.add_format({
         'bg_color': 'green'
     })
